@@ -23,5 +23,4 @@ class Solution {
         list.remove(list.size()-1);
         helper(candidates, target, index+1, list);
     }
-    
 }
